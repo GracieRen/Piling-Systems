@@ -9,3 +9,6 @@ Some website screenshots are shown as follows.
 Home Page:
 ![](/Website%20Screenshot/Home%20Page.gif)
 
+Home Page Mobile Version:
+![](/Website%20Screenshot/Home%20Page%20Mobile%20Version.gif)
+
