@@ -7,7 +7,5 @@ Here is a link to the website: https://staging.pilingsystems.com.au/ (Under Cons
 Some website screenshots are shown as follows.
 
 Home Page:
-![](/Website%20Screenshot/Home%20Page/HomePage1.png)
-![](/Website%20Screenshot/Home%20Page/HomePage2.png)
-![](/Website%20Screenshot/Home%20Page/HomePage3.png)
+![](/Website%20Screenshot/Home%20Page.gif)
 
