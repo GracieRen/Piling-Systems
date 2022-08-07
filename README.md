@@ -2,7 +2,7 @@
 This is a WordPress website.
 This is a WordPress website. The site is built by Elementor. A mobile version of the website is also designed for clients to view all the portfolio simply by their phones.
 
-Here is a link to the website: https://staging.pilingsystems.com.au/ (Under Construction)
+Here is a link to the website: https://pilingsystems.com.au/
 
 Some website demos are shown as follows.
 
